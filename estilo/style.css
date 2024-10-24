@@ -87,7 +87,7 @@ section.imagem > p {
 }
 
 section#img01 {
-    background-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.mfrural.com.br%2Fflores-comestiveis%2F&psig=AOvVaw1u8THS465Y2llGfoLgIyIf&ust=1729864091417000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKDnzfKTp4kDFQAAAAAdAAAAABAE);
+    background-image: url(../imagens/background001.jpg);
     background-position: right center;
     background-size: cover;
 }
